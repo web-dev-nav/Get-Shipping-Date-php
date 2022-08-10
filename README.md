@@ -18,3 +18,8 @@ To change the number of holidays inside /functions.php
 To change the Cut off time
 ```PHP
 $cutOffTime = "11:00"; 
+```
+# View
+
+![image](https://user-images.githubusercontent.com/110724391/183831068-7d22b2b9-a02a-4c41-b765-e202ee41a202.png)
+
