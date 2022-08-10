@@ -9,9 +9,12 @@ The main code with logic should be added to getShippingDate in functions.php. Co
 
 # Installation
 
-Its need PHP environment and you can change the number of holidays inside /functions.php 
+Its need PHP environment.
 
+To change the number of holidays inside /functions.php 
 ```PHP
  $allHolidays = array('10-08-2022','11-08-2022', '12-08-2022','13-08-2022');
- 
  ```
+To change the Cut off time
+```PHP
+$cutOffTime = "11:00"; 
