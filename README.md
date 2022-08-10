@@ -1,4 +1,4 @@
-# Task to perform
+# Calculate shipping date based on nonworking days
 Imagine there is a webshop which sells some products. We need the code that calculates the expected shipping date when a user submits an order.  So let the start screen contain a text box to enter a date(datepicker) and submitting it is like placing an order (the aim is to get the order date).
 
 The shop owner has decided NOT to ship on certain days of a week.  We should be able to change the days in which they are not shipping (you can keep these days in an array, no need of database usage). 
