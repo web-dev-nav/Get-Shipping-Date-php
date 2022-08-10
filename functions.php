@@ -9,7 +9,7 @@ function getShippingDate($orderDate, $orderTime) {
     
     if($orderTime >= $cutOffTime) { //if user order after 11am
        //order after 11
-           array_push($allHolidays, date('d-m-Y')); //adding current date into holiday to prevent shipping today
+           array_push($allHolidays, $orderDate); //adding current date into holiday to prevent shipping today
            while(in_array($orderDate,$allHolidays)) { //checking order date in holidays
                $orderDate = date('d-m-Y', strtotime("$orderDate +1 day")); //check next available day if holiday found
              }
