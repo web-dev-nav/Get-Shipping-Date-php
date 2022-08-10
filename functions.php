@@ -1,5 +1,5 @@
 <?php
-
+//https://stackoverflow.com/questions/73289507/calculating-the-shipping-date-according-to-time-and-holiday-in-php
 function getShippingDate($orderDate, $orderTime) {
 	
     //$orderTime = "10:00"; // order time 
