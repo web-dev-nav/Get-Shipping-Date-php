@@ -23,3 +23,5 @@ $cutOffTime = "11:00";
 
 ![image](https://user-images.githubusercontent.com/110724391/183831068-7d22b2b9-a02a-4c41-b765-e202ee41a202.png)
 
+# Video Explained
+![GET ECOM SHIPPING DATE](https://user-images.githubusercontent.com/110724391/184474669-269c1870-3296-403a-9a81-a62f66193c5a.png)([Youtube](https://www.youtube.com/watch?v=qM3TNdvqsfM))
